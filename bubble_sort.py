@@ -1,9 +1,3 @@
-"""
-    Bubble sort is basic algorithm for every programmer
-    Time Complexity: O(N^2)
-    Auxiliary Space: O(1)
-"""
-
 not_sorted = [5, 7, 4, 3, 8, 2]
 
 
