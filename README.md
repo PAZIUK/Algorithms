@@ -1,6 +1,6 @@
 # Algorithms 
 
-## Python
+![Python](https://img.shields.io/badge/-Python-ffdf5a?style=for-the-badge&logo=python)
 
 | Algorithm name                      | Algorithm link                                                      | Time complexity | Space complexity |
 | :-                                  | :-:                                                                 | :-:             | :-:              |
