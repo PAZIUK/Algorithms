@@ -1,7 +1,6 @@
 # Algorithms 
 
-Algorithms:
-  - Sorting : [View algorithms]()
+  - Sorting : [View algorithms](https://github.com/PAZIUK/Algorithms/blob/main/README.md#sorting)
 
 ## Sorting
 | Language                                                          | Algorithm name                      | Algorithm code link                                                           | Time complexity | Space complexity |
