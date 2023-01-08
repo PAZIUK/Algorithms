@@ -4,7 +4,7 @@ int_array = [1, 3, 5, 7, 9]
 str_array = ['Bogdan', 'Dionisii', 'Oleksandr', 'Serhii', 'Stanislav']
 
 
-def binary_search(array, item):             # Number binary search
+def binary_search(array, item):             # Binary search
 
     low = 0                                 # Low limit
     high = len(array) - 1                   # High limit
